@@ -1,10 +1,10 @@
 <!-- tyhp-readme:start -->
 # tyhpdef/symfony-clock
 
-Tyhp type definitions for `symfony/clock` `7.4.8`.
+Tyhp type definitions for `symfony/clock` `8.1.0`.
 
 ```bash
-composer require --dev tyhpdef/symfony-clock:7.4.8
+composer require --dev tyhpdef/symfony-clock:8.1.0
 ```
 
 This is a metapackage. Composer also installs `tyhpdef/symfony-clock-impl` (type files).

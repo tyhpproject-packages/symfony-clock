@@ -1,15 +1,15 @@
 {
     "name": "tyhpdef/symfony-clock",
-    "description": "Tyhp type definitions for symfony/clock 7.4.8.",
+    "description": "Tyhp type definitions for symfony/clock 8.1.0.",
     "type": "metapackage",
     "license": "Apache-2.0",
-    "version": "7.4.8",
+    "version": "8.1.0",
     "keywords": [
         "dev",
         "static analysis"
     ],
     "require": {
-        "tyhpdef/symfony-clock-impl": "~7.4.8.0"
+        "tyhpdef/symfony-clock-impl": "~8.1.0.0"
     },
     "extra": {
         "tyhp": {
